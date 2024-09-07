@@ -1,3 +1,3 @@
 # Welcome to the first static site!
-## First itteration
-## More features comming soon
+## First website
+## More features coming soon
